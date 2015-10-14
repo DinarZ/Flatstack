@@ -1,5 +1,5 @@
 puts "Starting..."
-file = File.open('date.csv')
+file = File.open('data.csv')
 
 file.gets
 
